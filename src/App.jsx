@@ -33,7 +33,7 @@ function App() {
 
   return (
     <main className="app">
-      <h1>Daily Tasks</h1>
+      <h1>Daily Tasks---new</h1>
       <p>Manage your daily activities</p>
 
       <div className="task-form">
