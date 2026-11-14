@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
+  const testValue = "CI Error Test";
   const [tasks, setTasks] = useState([
     { id: 1, title: "Learn React", completed: true },
     { id: 2, title: "Learn GitHub", completed: false },
